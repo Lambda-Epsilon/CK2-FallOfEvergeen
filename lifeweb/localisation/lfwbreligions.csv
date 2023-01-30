@@ -1,0 +1,37 @@
+#RELIGIONS
+post_christian;Post-Christian;;;;;;;;;;;;;x
+thanati;Thanati;;;;;;;;;;;;;x
+old_gods;Old Gods;;;;;;;;;;;;;x
+
+#GPC
+GOD_COMATIC_LORD;Comatic Lord;;;;;;;;;;;;;x
+GOD_COMATIC_GOD;Comatic God;;;;;;;;;;;;;x
+post_christian_DESC;Grey Postchristian Church was one of the countless cults on Evergreen - a drop in the quaint sea. The dogma of the GPC says that God is weak, unconscious and drowns more and more into the suffering.;;;;;;;;;;;;;x
+
+#Thanati
+THE_SIGILS;The Sigils;;;;;;;;;;;;;;x
+GOD_TZCHERNOBOG;Tzchernobog;;;;;;;;;;;;;;x
+GOD_CREATOR;The Creator;;;;;;;;;;;;;;x
+thanati_DESC;Thanati reject this world as inherently damned and imperfect, laid down by the incomplete Creator. They believe that the next Creator - their overlord Tzchernobog - is already gaining strength, and to carry on to the new Creation it is enough to end the existing one. The door to this Universe will close with the death of the last person witnessing it - and the cult of Thanati intends to contribute to this out of good intentions.;;;;;;;;;;;;;x
+
+#Old Gods
+GOD_VELES;Veles;;;;;;;;;;;;;x
+GOD_TOTH;Toth;;;;;;;;;;;;;x
+GOD_ARMOK;Armok;;;;;;;;;;;;;x
+GOD_BACCHUS;Bacchus;;;;;;;;;;;;;x
+GOD_GROSTH;Grosth;;;;;;;;;;;;;x
+GOD_EUSOCH;Eusoch;;;;;;;;;;;;;;x
+GOD_XOM;Xom;;;;;;;;;;;;;x
+old_gods_DESC;Loose and uncentralized religion, similar to the unorganized pagans. They believe in the Foundations and the Dead Gods, and do their bidding.;;;;;;;;;;;;;x
+
+
+#Muslim
+
+#CULTURES
+northerners;Northerner;;;;;;;;;;;;;x
+salarian;Salarian;;;;;;;;;;;;;x
+gaulien;Gaulien;;;;;;;;;;;;;x
+costian;Costian;;;;;;;;;;;;;x
+gahanian;Gahanian;;;;;;;;;;;;;x
+nanuq;Nanuq;;;;;;;;;;;;;x
+srodladowyian;Srodladowyian;;;;;;;;;;;;;x

@@ -1,0 +1,9 @@
+song = {
+	name = "crusaderkings2_maintitle.ogg"
+	song_name = "Crusader Kings 2 Maintitle"
+	
+	chance = {
+		factor = 1 
+	}
+	volume = 0.48
+}

@@ -75,10 +75,7 @@ east_slavic = {
 	}
 }
 
-latin = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	graphical_cultures = { westerngfx }
-
+coastal_folk = {
 	gaulien = {
 		graphical_cultures = { frankishgfx westerngfx }
 		alternate_start = {		}
@@ -245,7 +242,7 @@ finno_ugric = {
 	}
 }
 
-west_slavic = {
+cavern_people = {
 	srodladowyian = {
 		graphical_cultures = { westernslavicgfx }
 		
@@ -283,5 +280,53 @@ west_slavic = {
 		pat_grm_name_chance = 10
 		mat_grm_name_chance = 40
 		mother_name_chance = 5
+	}
+	gleboki_folk = {
+		graphical_cultures = { westernslavicgfx }
+		
+		color = { 0.4 0.6 0.4 }
+
+		male_names = {
+			Aleksander_Alexander Andrzej_Andrew Antoni_Antonius Aron_Aaron Barnim Bartosz_Bartolomeus Bedrich_Frederick Bezprzym Blazej_Blaise Bogislaw_Boguslaw Bohdan_Bogdan Bohumir Boleslaw_Boleslav Boriwoj_Borijov Bozydar_Theodat Branimir Branislav
+			Bretislav_Bretislaus Casimir_Casimir Ctibor_Ctibor Dobieslaw Dobromil Drosuk Dytryk_Thierry Frantisek_Francis Gawel_Gallus Grzegorz_Gregory Havel_Gallus Jacenty_Hyacinth Jakub_Jacob Jakusz_Jacob Janusz_John Jaromar_Jaromir
+			Jaromil Jaromir_Jaromir Jaroslav_Jaroslav Jedrzej_Andrew Jindrich_Henry Jirí_George Jozef_Joseph Juliusz_Julius Kajetan Kamil_Camillus Karel_Charles Kasper Kazimierz_Casimir Kliment_Clement Kolman_Koloman Kornel_Cornelius Kresimir Krzeslaw
+			Krzysztof_Christopher Lech Leszek Lubomir Lucjan_Lucius Ludvik_Louis Marek_Marcus Marian_Marius Martin_Martin Mateusz_Matthew Mieszko Mikolás_Nicholas Miloslaw Milosz_Milosz Miroslaw_Miroslav Mscislaw_Mstislav Msciwoj
+			Oldrich_Ulrich Ondrej_Andrew Otokar_Otakar Patryk_Patrick Pawel_Paul Piotr_Peter Prendota Przemysl_Premysl Przybyslaw Radomil Radomir Radoslav Rostislav Ryszard_Richard Sambor Sobieslav_Sobeslaus Stanislaw_Stanislav
+			Strasz Swietopelk_Svatopluk Swietoslaw_Sviatoslav Szczepan_Stephen Szczesny Szymon Tadeusz_Theodore Tomasz_Thomas Udalrich Urjasz Vojtech_Vojtech Waclaw_Vaclav Walenty_Valentin Wratislaw_Vratislav Wawrzyniec_Laurence Wenceslaw_Vaclav
+			Wincenty_Vincent Wizlaw Wladyslaw_Vladislav Wlodek Wlodzimierz Wlodzislaw_Vladislav Wratislaw_Vratislav Zbigniew_Zbynek Zdenek Zdislav Zygmunt_Sigmund
+		}
+		female_names = {
+			Agnieszka_Agnes Alzbeta Andela Anna_Anna Berta_Bertha Bohuslava Bozena Branislava Dagmar Danuta Dobravy Dobroniega Dorota_Dorothy Dragomira Edyta_Edith Ewa Geira Gertruda_Gertrude
+			Gracja_Grace Grazyna Halina Hanna Irena_Irene Izabela_Elizabeth Jadwiga_Hedwig Jarka Jarmila Jolanta_Yolanda Judyta_Judith Kamila_Camilla Katarina_Catherine Kenna Kornelia_Cornelia Krystyna_Christina Ksenia Lidia
+			Ludmila_Liudmila Magda_Magdalena Magdalena_Magdalena Malgorzata Marcelina Maria_Maria Markéta Martyna_Martina Mateja Matylda_Matilda Milena Miroslava Pechna Róza_Rosa Radomila Radomira Radoslava
+			Raina_Raina Regelinda Rycheza_Richeza Salomea Smiechna Stanislava Stefana_Stephania Svetlana Urszula_Ursula Václava Vladislava Wera Wojslawa Zdenka Zofia_Sophia Zwinislawa
+		}
+		
+		from_dynasty_prefix = "of "
+
+		modifier = default_culture_modifier
+	}
+	jeskyne = {
+		graphical_cultures = { westernslavicgfx }
+		
+		color = { 0.4 0.6 0.5 }
+		
+		male_names = {
+			Albert_Albert Albrecht_Albert Ales_Alexander Arnost_Ernest Bavor Bedrich_Frederick Benes_Benedict Bocek Bohuslav_Boguslaw Boleslav_Boleslav Bores Borijov_Borijov Bretislav_Bretislaus Budivoj Castolov Cenek_Vincent Chval Ctirad Diepold_Dietpold
+			Detrich_Thierry Drslav Gerhard Hanus_John Havel_Gallus Heralt Herman_Herman Hrabis Hynek_Henry Jan_John Jaromír_Jaromir Jaroslav_Jaroslav Jesek Jindrich_Henry Jirík_George Karel_Charles Kojata Konrád_Konrad Kuník Litold
+			Markvart Matous_Matthew Mikulás_Nicholas Milic Mojmír Ojír Oldrich_Ulrich Ondrej_Andrew Ota_Otto Otakar_Otakar Pelhrim Petr_Peter Premysl_Premysl Prokop_Procopius Rajmund_Raymond Rostislav Sezima Slavibor
+			Slavomír Smil Sobieslav_Sobeslaus Spytihnev Strachkvas Svatobor Svatopluk_Svatopluk Tobiás Václav_Vaclav Viktorín Vítek_Guy Vanek Vilém_William Vladimír_Vladimir Vladislav_Vladislav Vojtech_Vojtech
+			Vratislav_Vratislav Vsebor_Vsebor Závis Zbynek_Zbynek Zdík Zdirad Zikmund_Sigmund 
+		}
+		female_names = {
+			Adléta Anezka Anna_Anna Barbora_Barbara Bedriska Blazena Bohuslava Boleslava Bozena Bozislava Bretislava Dobromila Dobroslava Domaslava Dorota_Dorothy
+			Doubravka Drahomíra Drahoslava Eliska_Elizabeth Eufemie_Euphemia Gertruda_Gertrude Guta Hedvika Helena_Helen Jana Jaroslava Jitka Johanka Judita_Judith Justina Katerina_Catherine
+			Klára_Clara Konstancie_Constance Kristyna_Christina Kunhuta Libuse Ludmila Marie_Maria Markéta Mlada Olga Perchta Pribyslava Richeza_Richeza Skonka Stanislava Svatava
+			Vilemína_Willhelmina Viola_Yolanda Vladislava Vojslava_Vojslava Zdislava Zdenka Zofie_Sophia
+		}
+		
+		from_dynasty_prefix = "of "
+
+		modifier = default_culture_modifier
 	}
 }

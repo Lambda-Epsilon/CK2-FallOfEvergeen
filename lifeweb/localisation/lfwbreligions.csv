@@ -6,7 +6,7 @@ old_gods;Old Gods;;;;;;;;;;;;;x
 #GPC
 GOD_COMATIC_LORD;Comatic Lord;;;;;;;;;;;;;x
 GOD_COMATIC_GOD;Comatic God;;;;;;;;;;;;;x
-post_christian_DESC;Grey Postchristian Church was one of the countless cults on Evergreen - a drop in the quaint sea. The dogma of the GPC says that God is weak, unconscious and drowns more and more into the suffering.;;;;;;;;;;;;;x
+post_christian_DESC;Grey Postchristian Church is the dominant cult of Evergreen. The dogma of the GPC says that God is weak, unconscious and drowns more and more into the suffering.;;;;;;;;;;;;;x
 
 #Thanati
 THE_SIGILS;The Sigils;;;;;;;;;;;;;;x
@@ -36,3 +36,7 @@ gahanian;Gahanian;;;;;;;;;;;;;x
 nanuq;Nanuq;;;;;;;;;;;;;x
 srodladowyian;Srodladowyian;;;;;;;;;;;;;x
 capitolite;Capitolite;;;;;;;;;;;;;x
+coastal_folk;Coastal Dwellers;;;;;;;;;;;;;x
+jeskyne;Jeskyne;;;;;;;;;;;;;x
+cavern_people;Cavern Folk;;;;;;;;;;;;;x
+gleboki_folk;Gleboki;;;;;;;;;;;;;x

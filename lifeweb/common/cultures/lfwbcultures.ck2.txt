@@ -170,12 +170,9 @@ latin = {
 	}
 }
 
-central_germanic = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	graphical_cultures = { germangfx }
-
+capitolite = {
 	gahanian = {
-		graphical_cultures = { germangfx }
+		graphical_cultures = { byzantinegfx mongolgfx westafricangfx easternslavicgfx norsegfx celticgfx turkishgfx persiangfx saxongfx occitangfx westerngfx southerngfx englishgfx normangfx chinesegfx frankishgfx croatsouthslavicgfx westernslavicgfx italiangfx }
 		
 		color = { 0.5 0.5 0.5 }
 
@@ -193,7 +190,7 @@ central_germanic = {
 			Otto_Otto Peter_Peter Philipp_Philip Poppo Radbot_Radbot Reinhard_Renard Reinhold_Reinhold Rudolf_Ralph Ruprecht_Robert Rutger_Roger Siegfried_Siegfried
 			Sieghard Siegmund_Sigmund Sigismund_Sigmund Simon_Simon Stefan_Stephen Theodorich_Thierry Thietmar_Dietmar Thomas_Thomas
 			Udalrich_Ulrich Ulrich_Ulrich Viktor_Victor Waldemar_Vladimir Walram_Walram Walther_Walter Welf_Lupo Wenzel_Vaclav Werner_Werner Wido_Guy
-			Wigerich Wilhelm_William Wolfgang Wolfram_Wolfram
+			Wigerich Wilhelm_William Wolfgang Wolfram_Wolfram 
 		}
 		female_names = {
 			Adela_Adela Adelheid_Adelaide Adelinde_Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia Barbara_Barbara
@@ -206,7 +203,6 @@ central_germanic = {
 			Mechthild_Matilda Oda Osterhild Richara_Ricarda Richenza_Richeza Richwara Romilda Serhilda_Serhilda Sofie_Sophia Sybille_Sibylla Trude_Gertrude
 			Ulrike Ursula_Ursula Ute_Ute Walpurga Wilhelmina_Wilhelmina Winfrida Wulfhilde_Ulfhild
 		}
-		from_dynasty_prefix = "von "
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50

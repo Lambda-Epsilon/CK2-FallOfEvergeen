@@ -1,0 +1,640 @@
+100010={
+	name="of Province0001"
+	culture="abendian"
+	religion="post_christian"
+}
+100020={
+	name="of Province0002"
+	culture="abendian"
+	religion="old_gods"
+}
+100030={
+	name="of Province0003"
+	culture="abendian"
+	religion="post_christian"
+}
+100040={
+	name="of Province0004"
+	culture="abendian"
+	religion="post_christian"
+}
+100050={
+	name="i Province0005"
+	culture="kranto"
+	religion="post_christian"
+}
+100060={
+	name="of Province0006"
+	culture="abendian"
+	religion="old_gods"
+}
+100070={
+	name="i Province0007"
+	culture="kranto"
+	religion="post_christian"
+}
+100080={
+	name="of Province0008"
+	culture="abendian"
+	religion="thanati"
+}
+100090={
+	name="de Province0009"
+	culture="gaulien"
+	religion="post_christian"
+}
+100100={
+	name="i Province0010"
+	culture="kranto"
+	religion="post_christian"
+}
+100110={
+	name="of Province0011"
+	culture="abendian"
+	religion="post_christian"
+}
+100120={
+	name="i Province0012"
+	culture="kranto"
+	religion="old_gods"
+}
+100130={
+	name="of Province0013"
+	culture="abendian"
+	religion="old_gods"
+}
+100140={
+	name="i Province0014"
+	culture="kranto"
+	religion="post_christian"
+}
+100150={
+	name="of Province0015"
+	culture="abendian"
+	religion="old_gods"
+}
+100160={
+	name="i Province0016"
+	culture="kranto"
+	religion="post_christian"
+}
+100170={
+	name="de Province0017"
+	culture="gaulien"
+	religion="post_christian"
+}
+100180={
+	name="de Province0018"
+	culture="gaulien"
+	religion="post_christian"
+}
+100190={
+	name="of Province0019"
+	culture="abendian"
+	religion="post_christian"
+}
+100200={
+	name="of Province0020"
+	culture="abendian"
+	religion="post_christian"
+}
+100210={
+	name="i Province0021"
+	culture="kranto"
+	religion="post_christian"
+}
+100220={
+	name="of Province0022"
+	culture="northerners"
+	religion="post_christian"
+}
+100230={
+	name="af Province0023"
+	culture="handlendmen"
+	religion="post_christian"
+}
+100240={
+	name="of Province0024"
+	culture="nanuq"
+	religion="old_gods"
+}
+100250={
+	name="af Province0025"
+	culture="handlendmen"
+	religion="post_christian"
+}
+100260={
+	name="de Province0026"
+	culture="gaulien"
+	religion="post_christian"
+}
+100270={
+	name="of Province0027"
+	culture="abendian"
+	religion="post_christian"
+}
+100280={
+	name="of Province0028"
+	culture="abendian"
+	religion="post_christian"
+}
+100290={
+	name="i Province0029"
+	culture="kranto"
+	religion="post_christian"
+}
+100300={
+	name="of Province0030"
+	culture="northerners"
+	religion="old_gods"
+}
+100310={
+	name="of Province0031"
+	culture="abendian"
+	religion="post_christian"
+}
+100320={
+	name="of Province0032"
+	culture="northerners"
+	religion="old_gods"
+}
+100330={
+	name="of Province0033"
+	culture="nanuq"
+	religion="old_gods"
+}
+100340={
+	name="i Province0034"
+	culture="kranto"
+	religion="post_christian"
+}
+100350={
+	name="of Province0035"
+	culture="northerners"
+	religion="post_christian"
+}
+100360={
+	name="de Province0036"
+	culture="gaulien"
+	religion="post_christian"
+}
+100370={
+	name="af Province0037"
+	culture="handlendmen"
+	religion="post_christian"
+}
+100380={
+	name="of Province0038"
+	culture="abendian"
+	religion="post_christian"
+}
+100390={
+	name="af Province0039"
+	culture="handlendmen"
+	religion="post_christian"
+}
+100400={
+	name="of Province0040"
+	culture="northerners"
+	religion="post_christian"
+}
+100410={
+	name="de Province0041"
+	culture="gaulien"
+	religion="post_christian"
+}
+100420={
+	name="of Province0042"
+	culture="abendian"
+	religion="post_christian"
+}
+100430={
+	name="of Province0043"
+	culture="northerners"
+	religion="post_christian"
+}
+100440={
+	name="of Province0044"
+	culture="nanuq"
+	religion="old_gods"
+}
+100450={
+	name="of Province0045"
+	culture="northerners"
+	religion="post_christian"
+}
+100460={
+	name="Province0046"
+	culture="gahanian"
+	religion="post_christian"
+}
+100470={
+	name="of Province0047"
+	culture="northerners"
+	religion="post_christian"
+}
+100480={
+	name="of Province0048"
+	culture="srodladowyian"
+	religion="post_christian"
+}
+100490={
+	name="of Province0049"
+	culture="northerners"
+	religion="post_christian"
+}
+100500={
+	name="of Province0050"
+	culture="nanuq"
+	religion="old_gods"
+}
+100510={
+	name="af Province0051"
+	culture="handlendmen"
+	religion="post_christian"
+}
+100520={
+	name="de Province0052"
+	culture="gaulien"
+	religion="post_christian"
+}
+100530={
+	name="Province0053"
+	culture="gahanian"
+	religion="post_christian"
+}
+100540={
+	name="of Province0054"
+	culture="srodladowyian"
+	religion="post_christian"
+}
+100550={
+	name="de Province0055"
+	culture="gaulien"
+	religion="post_christian"
+}
+100560={
+	name="Province0056"
+	culture="gahanian"
+	religion="post_christian"
+}
+100570={
+	name="of Province0057"
+	culture="northerners"
+	religion="post_christian"
+}
+100580={
+	name="of Province0058"
+	culture="srodladowyian"
+	religion="post_christian"
+}
+100590={
+	name="af Province0059"
+	culture="handlendmen"
+	religion="post_christian"
+}
+100600={
+	name="of Province0060"
+	culture="northerners"
+	religion="post_christian"
+}
+100610={
+	name="of Province0061"
+	culture="northerners"
+	religion="post_christian"
+}
+100620={
+	name="of Province0062"
+	culture="northerners"
+	religion="post_christian"
+}
+100630={
+	name="of Province0063"
+	culture="northerners"
+	religion="post_christian"
+}
+100640={
+	name="of Province0064"
+	culture="jeskyne"
+	religion="post_christian"
+}
+100650={
+	name="Province0065"
+	culture="gahanian"
+	religion="post_christian"
+}
+100660={
+	name="of Province0066"
+	culture="nanuq"
+	religion="old_gods"
+}
+100670={
+	name="of Province0067"
+	culture="gleboki_folk"
+	religion="post_christian"
+}
+100680={
+	name="of Province0068"
+	culture="srodladowyian"
+	religion="thanati"
+}
+100690={
+	name="of Province0069"
+	culture="jeskyne"
+	religion="post_christian"
+}
+100700={
+	name="of Province0070"
+	culture="northerners"
+	religion="post_christian"
+}
+100710={
+	name="of Province0071"
+	culture="northerners"
+	religion="post_christian"
+}
+100720={
+	name="of Province0072"
+	culture="gleboki_folk"
+	religion="post_christian"
+}
+100730={
+	name="of Province0073"
+	culture="gleboki_folk"
+	religion="post_christian"
+}
+100740={
+	name="of Province0074"
+	culture="nanuq"
+	religion="old_gods"
+}
+100750={
+	name="of Province0075"
+	culture="jeskyne"
+	religion="old_gods"
+}
+100760={
+	name="of Province0076"
+	culture="northerners"
+	religion="post_christian"
+}
+100770={
+	name="of Province0077"
+	culture="northerners"
+	religion="post_christian"
+}
+100780={
+	name="of Province0078"
+	culture="northerners"
+	religion="post_christian"
+}
+100790={
+	name="of Province0079"
+	culture="gleboki_folk"
+	religion="post_christian"
+}
+100800={
+	name="of Province0080"
+	culture="jeskyne"
+	religion="post_christian"
+}
+100810={
+	name="of Province0081"
+	culture="northerners"
+	religion="old_gods"
+}
+100820={
+	name="of Province0082"
+	culture="gleboki_folk"
+	religion="post_christian"
+}
+100830={
+	name="of Province0083"
+	culture="nanuq"
+	religion="old_gods"
+}
+100840={
+	name="of Province0084"
+	culture="jeskyne"
+	religion="post_christian"
+}
+100850={
+	name="of Province0085"
+	culture="jeskyne"
+	religion="post_christian"
+}
+100860={
+	name="of Province0086"
+	culture="northerners"
+	religion="post_christian"
+}
+100870={
+	name="of Province0087"
+	culture="northerners"
+	religion="post_christian"
+}
+100880={
+	name="of Province0088"
+	culture="jeskyne"
+	religion="post_christian"
+}
+100890={
+	name="of Province0089"
+	culture="northerners"
+	religion="old_gods"
+}
+100900={
+	name="of Province0090"
+	culture="gleboki_folk"
+	religion="post_christian"
+}
+100910={
+	name="of Province0091"
+	culture="northerners"
+	religion="old_gods"
+}
+100920={
+	name="of Province0092"
+	culture="nanuq"
+	religion="old_gods"
+}
+100930={
+	name="of Province0093"
+	culture="northerners"
+	religion="old_gods"
+}
+100940={
+	name="of Province0094"
+	culture="jeskyne"
+	religion="post_christian"
+}
+100950={
+	name="of Province0095"
+	culture="gleboki_folk"
+	religion="post_christian"
+}
+100960={
+	name="of Province0096"
+	culture="gleboki_folk"
+	religion="post_christian"
+}
+100970={
+	name="of Province0097"
+	culture="jeskyne"
+	religion="post_christian"
+}
+100980={
+	name="of Province0098"
+	culture="jeskyne"
+	religion="post_christian"
+}
+100990={
+	name="of Province0099"
+	culture="salarian"
+	religion="post_christian"
+}
+101000={
+	name="of Province0100"
+	culture="salarian"
+	religion="post_christian"
+}
+101010={
+	name="of Province0101"
+	culture="salarian"
+	religion="post_christian"
+}
+101020={
+	name="of Province0102"
+	culture="nanuq"
+	religion="old_gods"
+}
+101030={
+	name="of Province0103"
+	culture="jeskyne"
+	religion="post_christian"
+}
+101040={
+	name="of Province0104"
+	culture="jeskyne"
+	religion="post_christian"
+}
+101050={
+	name="of Province0105"
+	culture="salarian"
+	religion="old_gods"
+}
+101060={
+	name="of Province0106"
+	culture="salarian"
+	religion="post_christian"
+}
+101070={
+	name="of Province0107"
+	culture="salarian"
+	religion="post_christian"
+}
+101080={
+	name="Province0108"
+	culture="uncultured_swine"
+	religion="old_gods"
+}
+101090={
+	name="of Province0109"
+	culture="salarian"
+	religion="post_christian"
+}
+101100={
+	name="Province0110"
+	culture="uncultured_swine"
+	religion="post_christian"
+}
+101110={
+	name="Province0111"
+	culture="uncultured_swine"
+	religion="old_gods"
+}
+101120={
+	name="of Province0112"
+	culture="salarian"
+	religion="post_christian"
+}
+101130={
+	name="of Province0113"
+	culture="salarian"
+	religion="post_christian"
+}
+101140={
+	name="of Province0114"
+	culture="salarian"
+	religion="post_christian"
+}
+101150={
+	name="of Province0115"
+	culture="nanuq"
+	religion="old_gods"
+}
+101160={
+	name="of Province0116"
+	culture="salarian"
+	religion="post_christian"
+}
+101170={
+	name="Province0117"
+	culture="uncultured_swine"
+	religion="old_gods"
+}
+101180={
+	name="Province0118"
+	culture="uncultured_swine"
+	religion="old_gods"
+}
+101190={
+	name="of Province0119"
+	culture="salarian"
+	religion="post_christian"
+}
+101200={
+	name="of Province0120"
+	culture="salarian"
+	religion="post_christian"
+}
+101210={
+	name="of Province0121"
+	culture="salarian"
+	religion="post_christian"
+}
+101220={
+	name="Province0122"
+	culture="uncultured_swine"
+	religion="old_gods"
+}
+101230={
+	name="Province0123"
+	culture="uncultured_swine"
+	religion="old_gods"
+}
+101240={
+	name="of Province0124"
+	culture="salarian"
+	religion="post_christian"
+}
+101250={
+	name="of Province0125"
+	culture="salarian"
+	religion="post_christian"
+}
+101260={
+	name="Province0126"
+	culture="uncultured_swine"
+	religion="old_gods"
+}
+101270={
+	name="of Province0127"
+	culture="nanuq"
+	religion="thanati"
+}
+101280={
+	name="of Province0128"
+	culture="salarian"
+	religion="post_christian"
+}

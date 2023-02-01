@@ -1,0 +1,14 @@
+# 19 - Province0019
+
+# County Title
+title = c_province0019
+
+# Settlements
+max_settlements = 4
+b_barony0019` = tribal
+
+# Misc
+culture = abendian
+religion = post_christian
+
+# History

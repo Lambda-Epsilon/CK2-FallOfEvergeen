@@ -1,0 +1,14 @@
+# 52 - Province0052
+
+# County Title
+title = c_province0052
+
+# Settlements
+max_settlements = 4
+b_barony0052` = tribal
+
+# Misc
+culture = gaulien
+religion = post_christian
+
+# History

@@ -1,0 +1,14 @@
+# 79 - Province0079
+
+# County Title
+title = c_province0079
+
+# Settlements
+max_settlements = 3
+b_barony0079` = tribal
+
+# Misc
+culture = gleboki_folk
+religion = post_christian
+
+# History

@@ -1,0 +1,14 @@
+# 18 - Province0018
+
+# County Title
+title = c_province0018
+
+# Settlements
+max_settlements = 4
+b_barony0018` = tribal
+
+# Misc
+culture = gaulien
+religion = post_christian
+
+# History

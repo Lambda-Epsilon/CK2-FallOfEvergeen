@@ -1,0 +1,14 @@
+# 95 - Province0095
+
+# County Title
+title = c_province0095
+
+# Settlements
+max_settlements = 4
+b_barony0095` = tribal
+
+# Misc
+culture = gleboki_folk
+religion = post_christian
+
+# History

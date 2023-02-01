@@ -1,0 +1,14 @@
+# 93 - Province0093
+
+# County Title
+title = c_province0093
+
+# Settlements
+max_settlements = 2
+b_barony0093` = tribal
+
+# Misc
+culture = northerners
+religion = old_gods
+
+# History

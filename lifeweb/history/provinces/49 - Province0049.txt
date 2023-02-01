@@ -1,0 +1,15 @@
+# 49 - Province0049
+
+# County Title
+title = c_province0049
+
+# Settlements
+max_settlements = 4
+b_barony0049` = tribal
+b_barony0049a = temple
+
+# Misc
+culture = northerners
+religion = post_christian
+
+# History

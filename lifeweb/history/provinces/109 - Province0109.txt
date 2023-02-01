@@ -1,0 +1,15 @@
+# 109 - Province0109
+
+# County Title
+title = c_province0109
+
+# Settlements
+max_settlements = 5
+b_barony0109` = tribal
+b_barony0109a = temple
+
+# Misc
+culture = salarian
+religion = post_christian
+
+# History

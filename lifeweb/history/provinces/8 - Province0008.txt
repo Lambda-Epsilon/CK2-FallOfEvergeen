@@ -1,0 +1,14 @@
+# 8 - Province0008
+
+# County Title
+title = c_province0008
+
+# Settlements
+max_settlements = 1
+b_barony0008` = tribal
+
+# Misc
+culture = abendian
+religion = thanati
+
+# History

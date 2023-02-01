@@ -1,0 +1,14 @@
+# 69 - Province0069
+
+# County Title
+title = c_province0069
+
+# Settlements
+max_settlements = 4
+b_barony0069` = tribal
+
+# Misc
+culture = jeskyne
+religion = post_christian
+
+# History

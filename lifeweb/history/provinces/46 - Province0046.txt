@@ -1,0 +1,15 @@
+# 46 - Province0046
+
+# County Title
+title = c_province0046
+
+# Settlements
+max_settlements = 6
+b_barony0046` = tribal
+b_barony0046a = temple
+
+# Misc
+culture = gahanian
+religion = post_christian
+
+# History

@@ -1,0 +1,53 @@
+# Empire0049
+technology = {
+	titles = {
+		d_duchy0007
+		d_duchy0021
+		d_duchy0023
+		d_duchy0024
+		d_duchy0025
+		d_duchy0030
+		d_duchy0049
+		d_duchy0054
+		d_duchy0057
+		d_duchy0067
+		d_duchy0070
+		d_duchy0076
+		d_duchy0083
+		d_duchy0087
+		d_duchy0095
+		d_duchy0101
+		d_duchy0105
+		d_duchy0107
+		d_duchy0128
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Empire0056
+technology = {
+	titles = {
+		d_duchy0006
+		d_duchy0008
+		d_duchy0009
+		d_duchy0015
+		d_duchy0036
+		d_duchy0038
+		d_duchy0056
+		d_duchy0059
+		d_duchy0075
+		d_duchy0103
+		d_duchy0118
+		d_duchy0123
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+

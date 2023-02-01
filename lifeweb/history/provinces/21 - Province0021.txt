@@ -1,0 +1,14 @@
+# 21 - Province0021
+
+# County Title
+title = c_province0021
+
+# Settlements
+max_settlements = 4
+b_barony0021` = tribal
+
+# Misc
+culture = kranto
+religion = post_christian
+
+# History

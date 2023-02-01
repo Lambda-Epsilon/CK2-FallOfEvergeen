@@ -1,0 +1,14 @@
+# 30 - Province0030
+
+# County Title
+title = c_province0030
+
+# Settlements
+max_settlements = 2
+b_barony0030` = tribal
+
+# Misc
+culture = northerners
+religion = old_gods
+
+# History

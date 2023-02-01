@@ -1,0 +1,15 @@
+# 38 - Province0038
+
+# County Title
+title = c_province0038
+
+# Settlements
+max_settlements = 5
+b_barony0038` = tribal
+b_barony0038a = temple
+
+# Misc
+culture = abendian
+religion = post_christian
+
+# History

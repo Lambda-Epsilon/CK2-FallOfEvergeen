@@ -1,0 +1,29 @@
+# Geographical regions
+world_empire0049 = {
+	duchies = {
+		# k_kingdom0007
+		d_duchy0021 d_duchy0023 d_duchy0025 d_duchy0007 
+		# k_kingdom0054
+		d_duchy0067 d_duchy0095 d_duchy0054 
+		# k_kingdom0083
+		d_duchy0024 d_duchy0083 
+		# k_kingdom0128
+		d_duchy0101 d_duchy0105 d_duchy0107 d_duchy0128 
+		# k_kingdom0049
+		d_duchy0030 d_duchy0057 d_duchy0070 d_duchy0076 d_duchy0087 d_duchy0049 
+	}
+}
+world_empire0056 = {
+	duchies = {
+		# k_kingdom0015
+		d_duchy0006 d_duchy0008 d_duchy0038 d_duchy0015 
+		# k_kingdom0059
+		d_duchy0009 d_duchy0036 d_duchy0059 
+		# k_kingdom0088
+		d_duchy0075 
+		# k_kingdom0108
+		d_duchy0103 d_duchy0118 d_duchy0123 
+		# k_kingdom0056
+		d_duchy0056 
+	}
+}

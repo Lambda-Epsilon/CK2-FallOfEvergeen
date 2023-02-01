@@ -1,0 +1,14 @@
+# 115 - Province0115
+
+# County Title
+title = c_province0115
+
+# Settlements
+max_settlements = 4
+b_barony0115` = tribal
+
+# Misc
+culture = nanuq
+religion = old_gods
+
+# History

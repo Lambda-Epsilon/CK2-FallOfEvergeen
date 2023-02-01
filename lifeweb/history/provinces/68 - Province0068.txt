@@ -1,0 +1,14 @@
+# 68 - Province0068
+
+# County Title
+title = c_province0068
+
+# Settlements
+max_settlements = 1
+b_barony0068` = tribal
+
+# Misc
+culture = srodladowyian
+religion = thanati
+
+# History

@@ -1,0 +1,14 @@
+# 45 - Province0045
+
+# County Title
+title = c_province0045
+
+# Settlements
+max_settlements = 3
+b_barony0045` = tribal
+
+# Misc
+culture = northerners
+religion = post_christian
+
+# History

@@ -1,0 +1,15 @@
+# 65 - Province0065
+
+# County Title
+title = c_province0065
+
+# Settlements
+max_settlements = 5
+b_barony0065` = tribal
+b_barony0065a = temple
+
+# Misc
+culture = gahanian
+religion = post_christian
+
+# History

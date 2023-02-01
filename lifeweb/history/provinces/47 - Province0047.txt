@@ -1,0 +1,14 @@
+# 47 - Province0047
+
+# County Title
+title = c_province0047
+
+# Settlements
+max_settlements = 3
+b_barony0047` = tribal
+
+# Misc
+culture = northerners
+religion = post_christian
+
+# History

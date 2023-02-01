@@ -1,0 +1,14 @@
+# 100 - Province0100
+
+# County Title
+title = c_province0100
+
+# Settlements
+max_settlements = 4
+b_barony0100` = tribal
+
+# Misc
+culture = salarian
+religion = post_christian
+
+# History

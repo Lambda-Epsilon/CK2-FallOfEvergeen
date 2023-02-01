@@ -1,0 +1,14 @@
+# 66 - Province0066
+
+# County Title
+title = c_province0066
+
+# Settlements
+max_settlements = 2
+b_barony0066` = tribal
+
+# Misc
+culture = nanuq
+religion = old_gods
+
+# History

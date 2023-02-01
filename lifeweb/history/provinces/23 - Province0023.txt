@@ -1,0 +1,14 @@
+# 23 - Province0023
+
+# County Title
+title = c_province0023
+
+# Settlements
+max_settlements = 3
+b_barony0023` = tribal
+
+# Misc
+culture = handlendmen
+religion = post_christian
+
+# History

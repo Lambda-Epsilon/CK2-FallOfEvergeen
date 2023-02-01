@@ -1,0 +1,14 @@
+# 76 - Province0076
+
+# County Title
+title = c_province0076
+
+# Settlements
+max_settlements = 3
+b_barony0076` = tribal
+
+# Misc
+culture = northerners
+religion = post_christian
+
+# History

@@ -1,0 +1,14 @@
+# 22 - Province0022
+
+# County Title
+title = c_province0022
+
+# Settlements
+max_settlements = 3
+b_barony0022` = tribal
+
+# Misc
+culture = northerners
+religion = post_christian
+
+# History

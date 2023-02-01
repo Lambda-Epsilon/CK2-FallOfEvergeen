@@ -1,0 +1,14 @@
+# 82 - Province0082
+
+# County Title
+title = c_province0082
+
+# Settlements
+max_settlements = 2
+b_barony0082` = tribal
+
+# Misc
+culture = gleboki_folk
+religion = post_christian
+
+# History

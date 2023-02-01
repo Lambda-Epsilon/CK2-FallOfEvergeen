@@ -1,0 +1,14 @@
+# 12 - Province0012
+
+# County Title
+title = c_province0012
+
+# Settlements
+max_settlements = 1
+b_barony0012` = tribal
+
+# Misc
+culture = kranto
+religion = old_gods
+
+# History

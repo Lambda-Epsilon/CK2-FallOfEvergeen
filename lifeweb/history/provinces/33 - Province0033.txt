@@ -1,0 +1,14 @@
+# 33 - Province0033
+
+# County Title
+title = c_province0033
+
+# Settlements
+max_settlements = 1
+b_barony0033` = tribal
+
+# Misc
+culture = nanuq
+religion = old_gods
+
+# History

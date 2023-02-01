@@ -1,0 +1,14 @@
+# 6 - Province0006
+
+# County Title
+title = c_province0006
+
+# Settlements
+max_settlements = 4
+b_barony0006` = tribal
+
+# Misc
+culture = abendian
+religion = old_gods
+
+# History

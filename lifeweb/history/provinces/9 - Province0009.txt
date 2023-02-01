@@ -1,0 +1,14 @@
+# 9 - Province0009
+
+# County Title
+title = c_province0009
+
+# Settlements
+max_settlements = 4
+b_barony0009` = tribal
+
+# Misc
+culture = gaulien
+religion = post_christian
+
+# History

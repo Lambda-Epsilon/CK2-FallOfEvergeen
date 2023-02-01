@@ -1,0 +1,14 @@
+# 85 - Province0085
+
+# County Title
+title = c_province0085
+
+# Settlements
+max_settlements = 3
+b_barony0085` = tribal
+
+# Misc
+culture = jeskyne
+religion = post_christian
+
+# History

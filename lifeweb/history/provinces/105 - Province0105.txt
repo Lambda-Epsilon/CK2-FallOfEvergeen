@@ -1,0 +1,14 @@
+# 105 - Province0105
+
+# County Title
+title = c_province0105
+
+# Settlements
+max_settlements = 4
+b_barony0105` = tribal
+
+# Misc
+culture = salarian
+religion = old_gods
+
+# History

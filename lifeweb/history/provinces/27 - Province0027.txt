@@ -1,0 +1,14 @@
+# 27 - Province0027
+
+# County Title
+title = c_province0027
+
+# Settlements
+max_settlements = 3
+b_barony0027` = tribal
+
+# Misc
+culture = abendian
+religion = post_christian
+
+# History

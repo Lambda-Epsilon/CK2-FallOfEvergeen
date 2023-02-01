@@ -1,0 +1,14 @@
+# 51 - Province0051
+
+# County Title
+title = c_province0051
+
+# Settlements
+max_settlements = 4
+b_barony0051` = tribal
+
+# Misc
+culture = handlendmen
+religion = post_christian
+
+# History

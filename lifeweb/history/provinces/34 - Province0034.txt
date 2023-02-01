@@ -1,0 +1,14 @@
+# 34 - Province0034
+
+# County Title
+title = c_province0034
+
+# Settlements
+max_settlements = 4
+b_barony0034` = tribal
+
+# Misc
+culture = kranto
+religion = post_christian
+
+# History

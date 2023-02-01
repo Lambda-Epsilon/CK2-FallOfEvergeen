@@ -1,0 +1,14 @@
+# 104 - Province0104
+
+# County Title
+title = c_province0104
+
+# Settlements
+max_settlements = 3
+b_barony0104` = tribal
+
+# Misc
+culture = jeskyne
+religion = post_christian
+
+# History

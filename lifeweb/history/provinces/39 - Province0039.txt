@@ -1,0 +1,14 @@
+# 39 - Province0039
+
+# County Title
+title = c_province0039
+
+# Settlements
+max_settlements = 4
+b_barony0039` = tribal
+
+# Misc
+culture = handlendmen
+religion = post_christian
+
+# History

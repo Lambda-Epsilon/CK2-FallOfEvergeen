@@ -1,0 +1,14 @@
+# 58 - Province0058
+
+# County Title
+title = c_province0058
+
+# Settlements
+max_settlements = 3
+b_barony0058` = tribal
+
+# Misc
+culture = srodladowyian
+religion = post_christian
+
+# History

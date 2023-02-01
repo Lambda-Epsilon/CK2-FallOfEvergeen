@@ -1,0 +1,14 @@
+# 81 - Province0081
+
+# County Title
+title = c_province0081
+
+# Settlements
+max_settlements = 2
+b_barony0081` = tribal
+
+# Misc
+culture = northerners
+religion = old_gods
+
+# History

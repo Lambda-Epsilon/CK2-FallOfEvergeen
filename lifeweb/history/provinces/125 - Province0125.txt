@@ -1,0 +1,15 @@
+# 125 - Province0125
+
+# County Title
+title = c_province0125
+
+# Settlements
+max_settlements = 5
+b_barony0125` = tribal
+b_barony0125a = temple
+
+# Misc
+culture = salarian
+religion = post_christian
+
+# History

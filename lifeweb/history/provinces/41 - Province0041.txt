@@ -1,0 +1,14 @@
+# 41 - Province0041
+
+# County Title
+title = c_province0041
+
+# Settlements
+max_settlements = 4
+b_barony0041` = tribal
+
+# Misc
+culture = gaulien
+religion = post_christian
+
+# History

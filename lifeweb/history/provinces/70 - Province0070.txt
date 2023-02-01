@@ -1,0 +1,14 @@
+# 70 - Province0070
+
+# County Title
+title = c_province0070
+
+# Settlements
+max_settlements = 3
+b_barony0070` = tribal
+
+# Misc
+culture = northerners
+religion = post_christian
+
+# History

@@ -407,17 +407,17 @@ runner_folk = {
 		color = { 0.5 0.6 0.3 }
 
 		male_names = {
-			Ábel_Abel Ádárn Ágoston_Augustine Álmos Árpád Õdön_Otto Alajos Ambrus_Ambrosius András_Andrew Antal Attila Bálint Béla_Albert Balázs Benedek_Benedict Bernát_Bernard Bertók Bertalan_Bartolomeus Boldizsár_Baltasar Bonuslo
-			Borisz_Boris Csák Csaba Csongor Dénes_Denis Dömötör_Demetrius Dezsõ_Desiderius Domoszló Donát_Donatus Elek Elemér Endre_Andrew Ernõ_Ernest Fulöp_Philip Ferenc_Francis Frigyes_Frederick Gábor_Gabriel Gábriel_Gabriel Gáspár_Caspar Géza Gazsi
-			Gellért_Gerard Gergely_Gregory György_George Gyula Imre István_Stephen Izsák_Isaac Jákob_Jacob János_John József_Joseph Jenõ Kálmán Károly_Charles Konrád_Konrad Kornél_Cornelius Kristóf_Christopher László_Vladislav Lázár_Lazarus Lõrinc_Laurence Lajos_Louis
-			Lampert_Lambert Levente Lukács_Luke Márk_Marcus Márton_Martin Máté_Matthew Mátyás_Matthew Móric_Maurice Mózes_Moses Mihály_Michael Miklós_Nicholas Nándor_Ferdinand Orbán_Urban Oszkár_Oscar Pál_Paul Péter_Peter Sámuel_Samuel Sándor_Alexander Salamon_Solomon Saul Soma
-			Szilveszter_Silvester Tádor_Theodore Tacsony Tamás_Thomas Tibor Tivadar Vazul_Basil Vencel_Vaclav Vilmos_William Zoltán Zsigmond_Sigmund Zsolt 
+			Abel_Abel Adarn Agoston_Augustine Almos Arpad Odon_Otto Alajos Ambrus_Ambrosius Andras_Andrew Antal Attila Balint Bela_Albert Balazs Benedek_Benedict Bernat_Bernard Bertok Bertalan_Bartolomeus Boldizsar_Baltasar Bonuslo
+			Borisz_Boris Csak Csaba Csongor Denes_Denis Domotor_Demetrius Dezso_Desiderius Domoszlo Donat_Donatus Elek Elemer Endre_Andrew Erno_Ernest Fulop_Philip Ferenc_Francis Frigyes_Frederick Gabor_Gabriel Gabriel_Gabriel Gaspar_Caspar Geza Gazsi
+			Gellert_Gerard Gergely_Gregory Gyorgy_George Gyula Imre Istvan_Stephen Izsak_Isaac Jakob_Jacob Janos_John Jozsef_Joseph Jeno Kalman Karoly_Charles Konrad_Konrad Kornel_Cornelius Kristof_Christopher Laszlo_Vladislav Lazar_Lazarus Lorinc_Laurence Lajos_Louis
+			Lampert_Lambert Levente Lukacs_Luke Mark_Marcus Marton_Martin Mate_Matthew Matyas_Matthew Moric_Maurice Mozes_Moses Mihaly_Michael Miklos_Nicholas Nandor_Ferdinand Orban_Urban Oszkar_Oscar Pal_Paul Peter_Peter Samuel_Samuel Sandor_Alexander Salamon_Solomon Saul Soma
+			Szilveszter_Silvester Tador_Theodore Tacsony Tamas_Thomas Tibor Tivadar Vazul_Basil Vencel_Vaclav Vilmos_William Zoltan Zsigmond_Sigmund Zsolt
 		}
 		female_names = {
-			Ágnes_Agnes Éva_Eva Adelaida_Adelaide Agáta_Agatha Amália_Amelia Angyalka_Angela Anikó_Anna Aranka_Aurelia Berta_Bertha Borbála_Barbara Csilla_Csilla Csillag_Csilla Czenzi Dorottya_Dorothy Edit_Edith Emõke Emese Erika Erzsébet_Elizabeth Eszter_Esther
-			Etel Euphemia_Euphemia Gizella_Gisela Györgyi_Georgia Hajnal Hedwig_Hedwig Ibolya_Yolanda Ildikó_Hildegard Illona Irén_Irene Jácinta_Hyacintha Józsa_Josepha Júlia_Julia Jolán Judith_Judith Kamilla_Camilla Katalin_Catherine Kinga_Kunigunde Klára_Clara
-			Konstancia_Constance Krisztina_Christina Kunigunda_Kunigunde Luca_Lucia Mária_Maria Márta_Martha Magdolna_Magdalena Margaréta_Margaret Margit_Margaret Matild_Matilda Natália_Natalia Odola Orsolya_Ursula Panni_Anna Piroska_Priscilla Rózsa_Rosa Sára_Sarah Sarolt
-			Skolasztika_Scholastica Sophia_Sophia Tundér Terezia_Teresa Viola_Yolanda Virág Zoltána Zsófia_Sophia Zsanett_Joan Zsuzsa_Susan
+			Agnes_Agnes Eva_Eva Adelaida_Adelaide Agata_Agatha Amalia_Amelia Angyalka_Angela Aniko_Anna Aranka_Aurelia Berta_Bertha Borbala_Barbara Csilla_Csilla Csillag_Csilla Czenzi Dorottya_Dorothy Edit_Edith Emoke Emese Erika Erzsebet_Elizabeth Eszter_Esther
+			Etel Euphemia_Euphemia Gizella_Gisela Gyorgyi_Georgia Hajnal Hedwig_Hedwig Ibolya_Yolanda Ildiko_Hildegard Illona Iren_Irene Jacinta_Hyacintha Jozsa_Josepha Julia_Julia Jolan Judith_Judith Kamilla_Camilla Katalin_Catherine Kinga_Kunigunde Klara_Clara
+			Konstancia_Constance Krisztina_Christina Kunigunda_Kunigunde Luca_Lucia Maria_Maria Marta_Martha Magdolna_Magdalena Margareta_Margaret Margit_Margaret Matild_Matilda Natalia_Natalia Odola Orsolya_Ursula Panni_Anna Piroska_Priscilla Rozsa_Rosa Sara_Sarah Sarolt
+			Skolasztika_Scholastica Sophia_Sophia Tunder Terezia_Teresa Viola_Yolanda Virag Zoltana Zsofia_Sophia Zsanett_Joan Zsuzsa_Susan
 		}
 		
 		dynasty_name_first = yes

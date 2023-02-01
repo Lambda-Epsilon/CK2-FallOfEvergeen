@@ -108,7 +108,7 @@ pagan_group = {
 
                 ai_convert_other_group = 2 # always try to convert
 
-                color = { 0.6 0.6 0.6 }
+                color = { 0.2 0.3 0.1 }
 
                 high_god_name = GOD_TZCHERNOBOG
 
